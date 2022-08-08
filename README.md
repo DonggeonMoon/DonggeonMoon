@@ -1,8 +1,8 @@
-Be a skillful and erudite developer. What I want to.👶
+Be a skillful and erudite developer, what I want to.👶
 
 📌 Ongoing activities:
 
-* Migration to JPA circumstances and code enhancement
+* Codes refactoring
 * Linux and infra study
 
 📚 To-do List:

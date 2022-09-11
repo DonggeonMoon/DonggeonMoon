@@ -2,7 +2,7 @@ Be a skillful and erudite developer, what I want to.👶
 
 📌 Ongoing activities:
 
-* <del>Codes refactoring</del>(suspended)
+* Codes refactoring
 * Linux and infra study
 
 📚 To-do List:

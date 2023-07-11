@@ -4,3 +4,6 @@ Be a skillful and erudite developer, what I want to.👶
 * Kotlin refactoring study
 
 📚 To-do List:
+* Redis
+* Message Brokers(ActiveMQ, Kafka...)
+* ElasticSearch

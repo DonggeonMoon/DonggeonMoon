@@ -1,7 +1,7 @@
 Be a skillful and erudite developer, what I want to.👶
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -9,8 +9,8 @@ Be a skillful and erudite developer, what I want to.👶
 
 ```text
 🌞 아침                     469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-🌆 낮　                     1007 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌃 저녁                     992 commits         ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌆 낮　                     1008 commits        █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌃 저녁                     992 commits         ████████░░░░░░░░░░░░░░░░░   33.50 % 
 🌙 밤　                     492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 ```
 
@@ -36,5 +36,5 @@ Windows                  10 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/06/2024 06:11:01 UTC
+ Last Updated on 13/06/2024 07:08:22 UTC
 <!--END_SECTION:waka-->

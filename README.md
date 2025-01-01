@@ -1,4 +1,4 @@
-Be a skillful and erudite developer, what I want to.👶
+느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%206%20mins-blue)

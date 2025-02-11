@@ -21,15 +21,15 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 23 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 23 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 11/02/2025 16:18:53 UTC
+ Last Updated on 11/02/2025 18:17:49 UTC
 <!--END_SECTION:waka-->

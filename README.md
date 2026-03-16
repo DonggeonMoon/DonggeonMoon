@@ -21,15 +21,15 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 16:59:07 UTC
+ Last Updated on 16/03/2026 18:56:01 UTC
 <!--END_SECTION:waka-->

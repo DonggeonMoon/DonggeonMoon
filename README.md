@@ -21,19 +21,19 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-Java                     9 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.89 % 
-SQL                      4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-JavaScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-TypeScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Java                     9 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.94 % 
+SQL                      4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+JavaScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+TypeScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 HTTP Request             1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            20 hrs 55 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            20 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 16:33:20 UTC
+ Last Updated on 12/04/2026 18:40:03 UTC
 <!--END_SECTION:waka-->

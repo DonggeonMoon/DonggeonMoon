@@ -21,17 +21,17 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 31 mins       █████████████████████████   98.68 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               2 hrs 29 mins       █████████████████████████   98.66 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            2 hrs 33 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 15:04:58 UTC
+ Last Updated on 24/04/2026 16:50:46 UTC
 <!--END_SECTION:waka-->

@@ -1,7 +1,7 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.01%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -21,19 +21,19 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-SQL                      47 mins             █████████░░░░░░░░░░░░░░░░   34.12 % 
-TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Java                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-HTTP Request             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.86 % 
+SQL                      55 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+JavaScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Java                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            2 hrs 20 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/05/2026 16:42:49 UTC
+ Last Updated on 03/05/2026 18:52:27 UTC
 <!--END_SECTION:waka-->

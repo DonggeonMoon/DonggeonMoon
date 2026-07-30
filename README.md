@@ -1,7 +1,7 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C844%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.01%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -10,8 +10,8 @@
 ```text
 🌞 아침                     458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 🌆 낮　                     930 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌃 저녁                     1607 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
-🌙 밤　                     1138 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+🌃 저녁                     1607 commits        ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌙 밤　                     1139 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
 ```
 
 
@@ -21,13 +21,19 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-SQL                      6 mins              █████████████████████████   100.00 % 
+Java                     1 hr 19 mins        █████████████░░░░░░░░░░░░   53.62 % 
+Python                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+SQL                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+HTTP Request             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 58 mins        ████████████████████░░░░░   80.05 % 
+PyCharm                  29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 
 💻 운영 체제들: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        ████████████████████░░░░░   80.05 % 
+Mac                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2026 15:48:31 UTC
+ Last Updated on 30/07/2026 17:21:53 UTC
 <!--END_SECTION:waka-->

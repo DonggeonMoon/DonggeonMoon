@@ -1,7 +1,7 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.01%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -10,8 +10,8 @@
 ```text
 🌞 아침                     459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 🌆 낮　                     930 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌃 저녁                     1607 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 밤　                     1139 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌃 저녁                     1607 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌙 밤　                     1140 commits        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 ```
 
 
@@ -21,19 +21,19 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 19 mins        █████████████░░░░░░░░░░░░   53.62 % 
-Python                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-SQL                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-HTTP Request             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   3 hrs 39 mins       ████████████████░░░░░░░░░   64.71 % 
+Java                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+HTTP Request             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 58 mins        ████████████████████░░░░░   80.05 % 
-PyCharm                  29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+PyCharm                  3 hrs 41 mins       ████████████████░░░░░░░░░   65.07 % 
+IntelliJ IDEA            1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.93 % 
 
 💻 운영 체제들: 
-Windows                  1 hr 58 mins        ████████████████████░░░░░   80.05 % 
-Mac                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Mac                      3 hrs 41 mins       ████████████████░░░░░░░░░   65.07 % 
+Windows                  1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.93 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -43,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2026 16:00:55 UTC
+ Last Updated on 31/07/2026 17:40:58 UTC
 <!--END_SECTION:waka-->

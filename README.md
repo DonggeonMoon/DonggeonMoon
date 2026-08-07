@@ -21,15 +21,13 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-Python                   3 hrs 10 mins       █████████████████████████   99.42 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-PyCharm                  3 hrs 11 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 16:48:09 UTC
+ Last Updated on 07/08/2026 18:46:47 UTC
 <!--END_SECTION:waka-->

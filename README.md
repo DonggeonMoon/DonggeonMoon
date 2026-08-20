@@ -21,15 +21,13 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-SQL                      0 secs              █████████████░░░░░░░░░░░░   51.43 % 
-HTTP Request             0 secs              ██████████░░░░░░░░░░░░░░░   40.32 % 
-Java                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/08/2026 16:28:43 UTC
+ Last Updated on 20/08/2026 18:30:41 UTC
 <!--END_SECTION:waka-->

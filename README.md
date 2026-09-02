@@ -11,9 +11,9 @@
 
 ```text
 🌞 아침                     519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌆 낮　                     1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌃 저녁                     1697 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌙 밤　                     1221 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌆 낮　                     1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌃 저녁                     1697 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌙 밤　                     1222 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 ```
 
 
@@ -23,42 +23,25 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-Python                   1 hr 9 mins         ██████████████░░░░░░░░░░░   55.88 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-SQL                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java Properties          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-.env file                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+SQL                      0 secs              █████████████████░░░░░░░░   69.14 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 41 mins        ████████████████████░░░░░   81.47 % 
-PyCharm                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (98.92%)
-
-✍️ 485 lines written by AI, 2 lines written by hand (99.59% AI-written)
-
-🔤 214,193 Input Tokens, 138,961 Output Tokens
-
-💵 $31.91 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 32 AI Prompts
-
-Sonnet                   537 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🔁 Iterative Prompter — average 32 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/09/2026 17:51:52 UTC
+ Last Updated on 02/09/2026 20:25:26 UTC
 <!--END_SECTION:waka-->

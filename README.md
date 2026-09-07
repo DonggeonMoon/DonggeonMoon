@@ -1,7 +1,7 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2015%20mins-blue?style=flat)
 
@@ -11,9 +11,9 @@
 
 ```text
 🌞 아침                     558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌆 낮　                     1043 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-🌃 저녁                     1747 commits        ██████████░░░░░░░░░░░░░░░   38.16 % 
-🌙 밤　                     1230 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌆 낮　                     1042 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌃 저녁                     1746 commits        ██████████░░░░░░░░░░░░░░░   38.13 % 
+🌙 밤　                     1233 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 ```
 
 
@@ -23,20 +23,20 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               28 mins             █████████████░░░░░░░░░░░░   51.82 % 
-Java Properties          10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Dart                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
+Dart                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+XML                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 에디터들: 
-VS Code                  54 mins             █████████████████████████   99.40 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  5 hrs 5 mins        █████████████████████████   99.89 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 운영 체제들: 
-Windows                  55 mins             █████████████████████████   99.95 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Mac                      4 hrs 10 mins       ████████████████████░░░░░   81.98 % 
+Windows                  55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -46,5 +46,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/09/2026 15:28:49 UTC
+ Last Updated on 07/09/2026 19:34:47 UTC
 <!--END_SECTION:waka-->

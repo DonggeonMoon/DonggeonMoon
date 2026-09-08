@@ -23,20 +23,19 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
-Dart                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-XML                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+TypeScript               2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
+Dart                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+XML                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 에디터들: 
-VS Code                  5 hrs 5 mins        █████████████████████████   99.89 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  6 hrs 6 mins        █████████████████████████   99.92 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 10 mins       ████████████████████░░░░░   81.98 % 
-Windows                  55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Mac                      4 hrs 26 mins       ██████████████████░░░░░░░   72.63 % 
+Windows                  1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -46,5 +45,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2026 14:06:35 UTC
+ Last Updated on 08/09/2026 19:15:20 UTC
 <!--END_SECTION:waka-->

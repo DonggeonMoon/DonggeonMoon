@@ -23,45 +23,45 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-Python                   3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Markdown                 3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-JSON                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Python                   3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
+Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+TypeScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 에디터들: 
-Claude Code              17 hrs 34 mins      ██████████████████████░░░   88.20 % 
-VS Code                  1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-PyCharm                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Claude Code              9 hrs 47 mins       ███████████████████████░░   90.09 % 
+PyCharm                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 운영 체제들: 
-Mac                      14 hrs 7 mins       ██████████████████░░░░░░░   70.90 % 
-Windows                  5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Mac                      10 hrs 42 mins      █████████████████████████   98.53 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 26 mins (92.52%)
+⏱ AI Coding Time: 10 hrs 21 mins (95.25%)
 
-✍️ 7,514 lines written by AI, 573 lines written by hand (92.91% AI-written)
+✍️ 2,230 lines written by AI, 6 lines written by hand (99.73% AI-written)
 
-🔤 2,566,152 Input Tokens, 1,204,004 Output Tokens
+🔤 985,637 Input Tokens, 490,871 Output Tokens
 
-💵 $97.80 Estimated AI Cost This Week
+💵 $44.95 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 342 AI Prompts
+🧠 11 AI Sessions, 175 AI Prompts
 
-Sonnet                   8,753 lines         █████████████████████████   100.00 % 
+Sonnet                   2,555 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.91% of written lines came from AI
-📄 Detailed Prompter — average 1,111 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 23.08% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 14:33:17 UTC
+ Last Updated on 16/09/2026 19:19:05 UTC
 <!--END_SECTION:waka-->

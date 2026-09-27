@@ -5,14 +5,14 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-388.81%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-414.59%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
 🌞 아침                     135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 낮　                     209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌃 저녁                     686 commits         █████████████░░░░░░░░░░░░   51.23 % 
+🌆 낮　                     208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌃 저녁                     687 commits         █████████████░░░░░░░░░░░░   51.31 % 
 🌙 밤　                     309 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
@@ -63,5 +63,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/09/2026 13:29:56 UTC
+ Last Updated on 27/09/2026 18:02:38 UTC
 <!--END_SECTION:waka-->

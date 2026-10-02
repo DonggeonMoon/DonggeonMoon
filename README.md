@@ -1,11 +1,11 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-540.74%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-541.18%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -23,44 +23,44 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Java                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+YAML                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+JavaScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 14 mins       █████████████████████░░░░   83.83 % 
-VS Code                  49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Claude Code              4 hrs 17 mins       █████████████████████░░░░   82.22 % 
+VS Code                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 
 💻 운영 체제들: 
-Windows                  3 hrs 43 mins       ██████████████████░░░░░░░   73.65 % 
-Mac                      1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Windows                  3 hrs 53 mins       ███████████████████░░░░░░   74.54 % 
+Mac                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (89.03%)
+⏱ AI Coding Time: 4 hrs 38 mins (88.93%)
 
-✍️ 1,138 lines written by AI, 6 lines written by hand (99.48% AI-written)
+✍️ 1,112 lines written by AI, 7 lines written by hand (99.37% AI-written)
 
-🔤 858,983 Input Tokens, 326,357 Output Tokens
+🔤 845,639 Input Tokens, 318,324 Output Tokens
 
-💵 $15.68 Estimated AI Cost This Week
+💵 $15.47 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 142 AI Prompts
+🧠 34 AI Sessions, 152 AI Prompts
 
-Opus                     1,148 lines         █████████████████████████   100.00 % 
+Opus                     1,118 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.37% of written lines came from AI
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 17:15:58 UTC
+ Last Updated on 02/10/2026 21:43:35 UTC
 <!--END_SECTION:waka-->

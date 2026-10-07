@@ -5,15 +5,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-542.86%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-543.21%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
 🌞 아침                     135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 🌆 낮　                     208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-🌃 저녁                     686 commits         █████████████░░░░░░░░░░░░   51.19 % 
-🌙 밤　                     311 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌃 저녁                     687 commits         █████████████░░░░░░░░░░░░   51.27 % 
+🌙 밤　                     310 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 ```
 
 
@@ -23,44 +23,44 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-YAML                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-TypeScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JavaScript               57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Bash                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+YAML                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+TypeScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+JavaScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 
 🔥 에디터들: 
-Claude Code              3 hrs 57 mins       ████████████████████░░░░░   80.14 % 
-VS Code                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Claude Code              2 hrs 25 mins       ██████████████████████░░░   86.37 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 💻 운영 체제들: 
-Windows                  4 hrs 27 mins       ███████████████████████░░   90.18 % 
-Mac                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Windows                  2 hrs 46 mins       █████████████████████████   98.74 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (87.9%)
+⏱ AI Coding Time: 2 hrs 37 mins (93.89%)
 
-✍️ 1,650 lines written by AI, 7 lines written by hand (99.58% AI-written)
+✍️ 891 lines written by AI, 1 lines written by hand (99.89% AI-written)
 
-🔤 783,778 Input Tokens, 306,790 Output Tokens
+🔤 439,360 Input Tokens, 140,549 Output Tokens
 
-💵 $16.12 Estimated AI Cost This Week
+💵 $9.13 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 131 AI Prompts
+🧠 15 AI Sessions, 72 AI Prompts
 
-Opus                     1,656 lines         █████████████████████████   100.00 % 
+Opus                     891 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📝 Concise Prompter — average 455 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 10:48:21 UTC
+ Last Updated on 07/10/2026 18:17:55 UTC
 <!--END_SECTION:waka-->

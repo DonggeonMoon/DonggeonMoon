@@ -11,9 +11,9 @@
 
 ```text
 🌞 아침                     135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌆 낮　                     209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌆 낮　                     208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 🌃 저녁                     686 commits         █████████████░░░░░░░░░░░░   51.19 % 
-🌙 밤　                     310 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌙 밤　                     311 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 ```
 
 
@@ -23,21 +23,43 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
+TypeScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+HTML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            16 mins             █████████░░░░░░░░░░░░░░░░   37.26 % 
+Claude Code              15 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
+VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 19 mins (43.68%)
+
+✍️ 0 lines written by AI, 502 lines written by hand (0.0% AI-written)
+
+🔤 64,109 Input Tokens, 12,246 Output Tokens
+
+💵 $0.71 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 8 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 22 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 14:51:24 UTC
+ Last Updated on 14/10/2026 19:57:27 UTC
 <!--END_SECTION:waka-->

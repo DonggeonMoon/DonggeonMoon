@@ -11,9 +11,9 @@
 
 ```text
 🌞 아침                     135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌆 낮　                     209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌆 낮　                     208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 🌃 저녁                     686 commits         █████████████░░░░░░░░░░░░   51.19 % 
-🌙 밤　                     310 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌙 밤　                     311 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 ```
 
 
@@ -23,43 +23,43 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               48 mins             ███████████████░░░░░░░░░░   59.55 % 
-JSON                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               1 hr 6 mins         █████████████████░░░░░░░░   66.79 % 
+JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 에디터들: 
-Claude Code              53 mins             ████████████████░░░░░░░░░   65.44 % 
-IntelliJ IDEA            16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-VS Code                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Claude Code              1 hr 4 mins         ████████████████░░░░░░░░░   65.12 % 
+IntelliJ IDEA            22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (69.96%)
+⏱ AI Coding Time: 1 hr 9 mins (69.34%)
 
 ✍️ 19 lines written by AI, 502 lines written by hand (3.65% AI-written)
 
-🔤 108,962 Input Tokens, 27,522 Output Tokens
+🔤 172,227 Input Tokens, 45,250 Output Tokens
 
-💵 $1.50 Estimated AI Cost This Week
+💵 $2.45 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
 Opus                     19 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 3.65% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 96.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 14:29:13 UTC
+ Last Updated on 16/10/2026 19:13:33 UTC
 <!--END_SECTION:waka-->

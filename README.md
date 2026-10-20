@@ -1,7 +1,7 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2055%20mins-blue?style=flat)
 
@@ -23,27 +23,27 @@
 🕑︎ Timezone: Asia/Tokyo
 
 💬 프로그래밍 언어들: 
-TypeScript               28 mins             ████████████░░░░░░░░░░░░░   46.18 % 
-JSON                     16 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               28 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
+JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+SQL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 에디터들: 
-Claude Code              26 mins             ███████████░░░░░░░░░░░░░░   43.47 % 
-IntelliJ IDEA            22 mins             █████████░░░░░░░░░░░░░░░░   37.00 % 
-VS Code                  11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+IntelliJ IDEA            30 mins             ███████████░░░░░░░░░░░░░░   43.80 % 
+Claude Code              26 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
+VS Code                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (50.31%)
+⏱ AI Coding Time: 30 mins (44.88%)
 
-✍️ 0 lines written by AI, 502 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 506 lines written by hand (0.0% AI-written)
 
 🔤 127,374 Input Tokens, 29,974 Output Tokens
 
@@ -61,5 +61,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/10/2026 18:15:53 UTC
+ Last Updated on 20/10/2026 22:54:51 UTC
 <!--END_SECTION:waka-->

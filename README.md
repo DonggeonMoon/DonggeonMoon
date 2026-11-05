@@ -1,19 +1,15 @@
 느리지만 천천히 전진하고 있습니다.🐢
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2054%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%201%20min-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-549.75%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-539.12%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌆 낮　                     208 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-🌃 저녁                     686 commits         █████████████░░░░░░░░░░░░   51.19 % 
-🌙 밤　                     311 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌞 아침                     117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 낮　                     170 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌃 저녁                     449 commits         ███████████░░░░░░░░░░░░░░   45.77 % 
+🌙 밤　                     245 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 ```
 
 
@@ -23,43 +19,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     6 hrs 20 mins       ████████████████████████░   96.54 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
+Java                     4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
+YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            6 hrs 3 mins        ███████████████████████░░   92.23 % 
-Claude Code              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              12 hrs 1 min        ██████████████████████░░░   86.14 % 
+IntelliJ IDEA            1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (11.78%)
+⏱ AI Coding Time: 13 hrs 2 mins (93.33%)
 
-✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
+✍️ 28,669 lines written by AI, 63 lines written by hand (99.78% AI-written)
 
-🔤 118,697 Input Tokens, 28,259 Output Tokens
+🔤 3,419,958 Input Tokens, 1,706,599 Output Tokens
 
-💵 $1.53 Estimated AI Cost This Week
+💵 $144.76 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 24 AI Prompts
+🧠 11 AI Sessions, 192 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     29,634 lines        █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 1,714 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/11/2026 17:31:42 UTC
+ Last Updated on 05/11/2026 01:52:36 UTC
 <!--END_SECTION:waka-->
